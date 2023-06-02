@@ -1,8 +1,7 @@
 # Blog-post
 My Journey in the ALX System Engineering Program: A Transformative 3-Month Experience
 
-![Alx-SE](https://raw.githubusercontent.com/Ismael-ux1/Blog-post/main/assets/117356408/85f51e5c-44ca-4350-ad2e-ca6a2fc1f8dd)
-
+![Alx-SE](https://github.com/Ismael-ux1/Blog-post/assets/117356408/76c89951-0b81-4f95-9b7c-2f32744bfbaf)
 
 This blog is for aspiring software engineers, technology enthusiasts, and individuals interested in learning about the ALX-SE program. It caters to anyone looking to gain insights into the journey of a participant in the program, as well as those seeking inspiration and guidance in their own technical pursuits.
 
