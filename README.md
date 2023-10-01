@@ -1,5 +1,5 @@
 # Blog-post
-My Journey in the ALX System Engineering Program: A Transformative 3-Month Experience
+My Journey in the ALX Software Engineering Program: A Transformative 3-Month Experience
 
 ![Alx-SE](https://github.com/Ismael-ux1/Blog-post/assets/117356408/76c89951-0b81-4f95-9b7c-2f32744bfbaf)
 
